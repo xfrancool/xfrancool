@@ -14,32 +14,62 @@
 
 ## 🧠 Sobre mí
 
-Soy desarrollador Full Stack especializado en el stack MERN.  
-Me enfoco en construir aplicaciones reales, funcionales y escalables, cuidando tanto la lógica como la experiencia de usuario.
-
-Trabajo con una mentalidad práctica:
-- código limpio y mantenible
-- soluciones simples a problemas complejos
-- proyectos que simulan entornos reales
+Desarrollador Full Stack MERN enfocado en construir aplicaciones reales, escalables y bien estructuradas.  
+Priorizo código limpio, lógica sólida y experiencias de usuario simples pero efectivas.
 
 ---
 
-## ⚙️ Stack principal
+## ⚙️ Stack
 
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express
-- **Base de datos:** MongoDB
-- **Auth:** JWT, OAuth (Google)
-- **Otros:** REST APIs, Git, Deploy (Vercel)
+### 🚀 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+- REST APIs  
+- JWT / Auth  
+- Passport.js  
+- WebSockets  
 
 ---
 
-## 🚀 Qué estoy haciendo actualmente
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-- Construyendo proyectos Full Stack completos
-- Mejorando arquitectura y escalabilidad
-- Integrando APIs y sistemas reales
-- Enfocado en productos listos para producción
+- Responsive UI  
+- Clean UX  
+
+---
+
+### 🗄️ Base de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+- Mongoose  
+- Supabase  
+
+---
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vercel,postman" />
+</p>
+
+- Render  
+- Deploy  
+- Google Apps Script  
+
+---
+
+## 🚀 Actualmente
+
+- Construyendo aplicaciones Full Stack completas  
+- Mejorando arquitectura y escalabilidad  
+- Integrando APIs reales  
+- Enfocado en proyectos listos para producción  
 
 ---
 
@@ -52,20 +82,20 @@ Trabajo con una mentalidad práctica:
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/xfrancool" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" />
+  <a href="https://github.com/xfrancool">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/franco-ortega/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/franco-ortega/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/franco.ortega2/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" />
+  &nbsp;
+  <a href="https://www.instagram.com/franco.ortega2/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:francoortega2@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
 
@@ -74,4 +104,4 @@ Trabajo con una mentalidad práctica:
 ## ⚡ Filosofía
 
 No construyo proyectos para practicar.  
-Construyo proyectos que podrían usarse en el mundo real.
+Construyo productos que podrían usarse en el mundo real.
