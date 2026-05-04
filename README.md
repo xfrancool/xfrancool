@@ -93,9 +93,3 @@ Priorizo código limpio, lógica sólida y experiencias de usuario simples pero 
   </a>
 </p>
 
----
-
-## ⚡ Filosofía
-
-No construyo proyectos para practicar.  
-Construyo productos que podrían usarse en el mundo real.
