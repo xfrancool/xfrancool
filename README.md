@@ -4,12 +4,6 @@
   Full Stack MERN Developer
 </p>
 
-<p align="center">
-  <a href="https://codefolio-lake.vercel.app/" target="_blank">
-    🌐 Portfolio
-  </a>
-</p>
-
 ---
 
 ## 🧠 Sobre mí
